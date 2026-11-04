@@ -1,0 +1,10 @@
+SCREEN: Main gameplay - TYPING phase, word "DUCK", the child has typed 2 of 4 letters.
+Top 60%: a big rounded magic picture window framed like a thick glossy storybook frame. Inside, a pond scene is almost fully hidden under
+soft fluffy swirly pastel lavender and pink magic clouds. In the very center the cloud parts in a glowing circle and a cute yellow 3D duckling
+is half-appearing with golden sparkles (only head and upper body visible so far).
+Bottom 40%: the word "DUCK" shown as four big puffy letter tiles. Beneath them four slots: the first two are filled with glowing candy letters
+"D" and "U" with star bursts and confetti popping; the third slot is empty with a thick bouncing dotted underline and the letter tile "C"
+above it pulses as the next letter to press; fourth slot empty. At the very bottom a friendly chunky on-screen keyboard strip where the key
+"C" glows bright yellow as a hint. the mascot Pip - a small round fluffy baby owl with lavender feathers, pale pink belly, enormous sparkly teal eyes, tiny yellow beak, rosy cheeks and a tiny golden star-tipped magic wand sits on the corner of the frame cheering.
+
+VISUAL STYLE (apply exactly): A polished screenshot of a premium 3D children's video game for ages 3-5, rendered like a modern animated feature film - soft clay-like 3D shapes, chunky rounded forms, glossy candy highlights, soft global illumination, gentle depth of field, dreamy volumetric light and floating sparkles. Palette: sky blue #7EC8F2, sunshine yellow #FFD34E, bubblegum pink #FF8FB1, mint green #7FDBB6, soft lavender #B79CFF, warm cream #FFF6E5. All UI elements are big, puffy and rounded (like soft plastic toys or jelly candy), no sharp corners. Typography: very large, extra-bold, rounded, bubbly uppercase letters, easy for a small child to read. Almost no text besides the game words. Landscape 16:9 full-screen game UI, no browser chrome, no device frame, no watermark. Do not print hex codes or style notes in the image.

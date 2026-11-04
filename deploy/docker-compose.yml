@@ -1,0 +1,19 @@
+# Static file server for the built game (dist/ → /srv). Nothing is published.
+# The server's front Caddy terminates TLS for game.getperformant.com and proxies
+# to game-web:80 over an external Docker network. The network is called `edge`
+# here; its real name is EDGE_NETWORK, which deploy.sh writes to .env next to this file.
+services:
+  web:
+    image: caddy:2-alpine
+    container_name: game-web
+    restart: unless-stopped
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - ./dist:/srv:ro
+    networks:
+      - edge
+
+networks:
+  edge:
+    external: true
+    name: ${EDGE_NETWORK:?set EDGE_NETWORK in .env}

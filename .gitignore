@@ -1,0 +1,14 @@
+node_modules
+dist
+.env
+assets_src/raw
+assets_src/*.log
+assets_src/contact_*.jpg
+__pycache__
+.env.*
+!.env.example
+deploy/deploy.env*
+!deploy/deploy.env.example
+deploy/*.local.*
+.DS_Store
+.claude/
